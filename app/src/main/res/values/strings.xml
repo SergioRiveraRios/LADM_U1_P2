@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LADM_UNIDAD1_PRACTICA2</string>
+    <string name="frase">Escriba una frase</string>
+    <string name="interna">Archivo Memoria Interna</string>
+    <string name="externa">Archivo Memoria SD</string>
+    <string name="archivo">Nombre del archivo:</string>
+    <string name="guardar">Guardar</string>
+    <string name="Abrir">Abrir</string>
+
+</resources>
